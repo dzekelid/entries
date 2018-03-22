@@ -10,7 +10,7 @@ produces:
 consumes:
 - application/json
 paths:
-  /?Action=ListInventoryEntries&k=1:
+  /?Action=ListInventoryEntries:
     get:
       summary: ' List Inventory Entries '
       description: A list of inventory items returned by the request

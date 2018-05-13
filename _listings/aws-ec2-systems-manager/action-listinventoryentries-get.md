@@ -1,8 +1,9 @@
 ---
 swagger: "2.0"
 info:
-  title: AWS EC2 Systems Manager API
+  title: Amazon EC2 Systems Manager API List Inventory Entries
   version: 1.0.0
+  description: A list of inventory items returned by the request.
 schemes:
 - http
 produces:
